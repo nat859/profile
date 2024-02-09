@@ -62,6 +62,10 @@ body {
       text-align: center;
 }
 
+.box-2 li{
+      list-style-image: url('dog.png');
+}
+
 .box-3 h1{
       text-align: center;
 }
